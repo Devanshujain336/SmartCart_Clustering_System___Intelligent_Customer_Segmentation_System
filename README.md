@@ -256,7 +256,7 @@ Being upfront about what this project does and does not do:
 
 ## 👤 Author
 
-**Your Name**
+**Devanshu Jain**
 [LinkedIn](https://linkedin.com/in/devanshujain12) · [Portfolio](https://www.devanshujain.xyz) · [X / Twitter](https://x.com/Jain_Devanshu_)
 
 If you found this useful, consider giving the repo a ⭐
