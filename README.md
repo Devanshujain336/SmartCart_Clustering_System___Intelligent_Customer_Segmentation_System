@@ -201,18 +201,7 @@ K = 4 was selected as the point of diminishing returns on WCSS that still gives 
 
 ---
 
-## 🗂 Project Structure
 
-```
-smartcart-customer-segmentation/
-├── smartcart.ipynb              # Full analysis: cleaning → features → PCA → clustering → profiling
-├── smartcart_customers.csv      # Dataset (add locally)
-├── requirements.txt             # Python dependencies
-├── assets/                      # Plots and infographic used in this README
-└── README.md
-```
-
----
 
 ## 🚀 Getting Started
 
