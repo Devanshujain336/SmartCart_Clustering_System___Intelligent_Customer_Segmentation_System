@@ -218,7 +218,7 @@ smartcart-customer-segmentation/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Devanshujain336/SmartCart_Clustering_System___Intelligent_Customer_Segmentation_System.git
+git clone https://github.com/Devanshujain336/smartcart-customer-segmentation.git
 cd smartcart-customer-segmentation
 
 # 2. (Optional) create a virtual environment
@@ -256,7 +256,8 @@ Being upfront about what this project does and does not do:
 
 ## 👤 Author
 
-**Devanshu Jain**
-[LinkedIn](https://linkedin.com/in/devanshujain12) · [Portfolio](https://www.devanshujain.xyz) · [X / Twitter](https://x.com/Jain_Devanshu_)
+**Devanshu Jain**: CS (B.Tech + M.Tech) @ NIT Kurukshetra
+
+[Portfolio](https://www.devanshujain.xyz) · [LinkedIn](https://www.linkedin.com/in/devanshujain12/) · [GitHub](https://github.com/Devanshujain336) · [Kaggle](https://www.kaggle.com/devanshujainnnnnn) · [X / Twitter](https://x.com/Jain_Devanshu_)
 
 If you found this useful, consider giving the repo a ⭐
