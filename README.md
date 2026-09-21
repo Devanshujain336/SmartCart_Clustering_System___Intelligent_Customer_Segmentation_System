@@ -180,7 +180,7 @@ K = 4 was selected as the point of diminishing returns on WCSS that still gives 
 ## 🖼 Visual Walkthrough
 
 ### Feature Relationships
-![Correlation heatmap](assets/02_correlation_heatmap.png)
+![Correlation heatmap](02_correlation_heatmap.png)
 
 ### Choosing the Number of Clusters
 | Elbow Method | Silhouette Score |
