@@ -8,7 +8,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-![SmartCart customer segments](assets/00_segments_infographic.png)
+![SmartCart customer segments](00_segments_infographic.png)
 
 ---
 
@@ -185,19 +185,19 @@ K = 4 was selected as the point of diminishing returns on WCSS that still gives 
 ### Choosing the Number of Clusters
 | Elbow Method | Silhouette Score |
 |---|---|
-| ![Elbow](assets/04_elbow_method.png) | ![Silhouette](assets/05_silhouette_scores.png) |
+| ![Elbow](04_elbow_method.png) | ![Silhouette](05_silhouette_scores.png) |
 
-![Elbow vs Silhouette](assets/06_elbow_vs_silhouette.png)
+![Elbow vs Silhouette](06_elbow_vs_silhouette.png)
 
 ### PCA Projection and Final Clusters
 | PCA (3D) | K-Means (3D) | Agglomerative / Ward (3D) |
 |---|---|---|
-| ![PCA](assets/03_pca_3d_projection.png) | ![KMeans](assets/07_kmeans_clusters_3d.png) | ![Agglomerative](assets/08_agglomerative_clusters_3d.png) |
+| ![PCA](03_pca_3d_projection.png) | ![KMeans](07_kmeans_clusters_3d.png) | ![Agglomerative](08_agglomerative_clusters_3d.png) |
 
 ### Segment Profiling
 | Cluster Sizes | Income vs Total Spending |
 |---|---|
-| ![Sizes](assets/09_cluster_sizes.png) | ![Scatter](assets/10_income_vs_spending.png) |
+| ![Sizes](09_cluster_sizes.png) | ![Scatter](10_income_vs_spending.png) |
 
 ---
 
@@ -256,7 +256,7 @@ Being upfront about what this project does and does not do:
 
 ## 👤 Author
 
-**Devanshu Jain**: CS (B.Tech + M.Tech) @ NIT Kurukshetra
+**Devanshu Jain**: CS  @ NIT Kurukshetra
 
 [Portfolio](https://www.devanshujain.xyz) · [LinkedIn](https://www.linkedin.com/in/devanshujain12/) · [GitHub](https://github.com/Devanshujain336) · [Kaggle](https://www.kaggle.com/devanshujainnnnnn) · [X / Twitter](https://x.com/Jain_Devanshu_)
 
