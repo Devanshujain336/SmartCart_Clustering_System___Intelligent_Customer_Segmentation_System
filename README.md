@@ -8,7 +8,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-![SmartCart customer segments](00_segments_infographic.png)
+![SmartCart customer segments](asset/00_segments_infographic.png)
 
 ---
 
@@ -180,24 +180,24 @@ K = 4 was selected as the point of diminishing returns on WCSS that still gives 
 ## 🖼 Visual Walkthrough
 
 ### Feature Relationships
-![Correlation heatmap](02_correlation_heatmap.png)
+![Correlation heatmap](asset/02_correlation_heatmap.png)
 
 ### Choosing the Number of Clusters
 | Elbow Method | Silhouette Score |
 |---|---|
-| ![Elbow](04_elbow_method.png) | ![Silhouette](05_silhouette_scores.png) |
+| ![Elbow](asset/04_elbow_method.png) | ![Silhouette](asset/05_silhouette_scores.png) |
 
-![Elbow vs Silhouette](06_elbow_vs_silhouette.png)
+![Elbow vs Silhouette](asset/06_elbow_vs_silhouette.png)
 
 ### PCA Projection and Final Clusters
 | PCA (3D) | K-Means (3D) | Agglomerative / Ward (3D) |
 |---|---|---|
-| ![PCA](03_pca_3d_projection.png) | ![KMeans](07_kmeans_clusters_3d.png) | ![Agglomerative](08_agglomerative_clusters_3d.png) |
+| ![PCA](asset/03_pca_3d_projection.png) | ![KMeans](asset/07_kmeans_clusters_3d.png) | ![Agglomerative](asset/08_agglomerative_clusters_3d.png) |
 
 ### Segment Profiling
 | Cluster Sizes | Income vs Total Spending |
 |---|---|
-| ![Sizes](09_cluster_sizes.png) | ![Scatter](10_income_vs_spending.png) |
+| ![Sizes](asset/09_cluster_sizes.png) | ![Scatter](asset/10_income_vs_spending.png) |
 
 ---
 
